@@ -520,3 +520,5 @@ Contributions are welcome! Please:
 ---
 
 **Built with ❤️ using Next.js 14, MySQL, and Tailwind CSS**
+#   F e t c h _ S h o p _ D a t a  
+ 
